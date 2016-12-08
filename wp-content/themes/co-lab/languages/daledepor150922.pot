@@ -1,0 +1,482 @@
+# Copyright (C) 2015 Bannister Global
+# This file is distributed under the GNU General Public License v3.0 /.
+msgid ""
+msgstr ""
+"Project-Id-Version: DaleDepor 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/daledepor150922\n"
+"POT-Creation-Date: 2015-10-06 08:28:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:28
+msgid "Oops! Something went wrong here."
+msgstr ""
+
+#: 404.php:33
+msgid "Nothing could be found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:51
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:54
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:57
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:60
+msgid "Asides"
+msgstr ""
+
+#: archive.php:63
+msgid "Images"
+msgstr ""
+
+#: archive.php:66
+msgid "Videos"
+msgstr ""
+
+#: archive.php:69
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:72
+msgid "Links"
+msgstr ""
+
+#: archive.php:75 sidebar.php:28
+msgid "Archives"
+msgstr ""
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:36 comments.php:58
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:38 comments.php:59
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:39 comments.php:60
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:76
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:77
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:78
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:79
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:84
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: image.php:32
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: image.php:43 image.php:87 includes/template-tags.php:81
+#: template_parts/content-page.php:34 template_parts/content.php:71
+msgid "Edit"
+msgstr ""
+
+#: image.php:48
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:49
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: image.php:69 template_parts/content-homepage.php:35
+#: template_parts/content-page.php:29 template_parts/content.php:37
+msgid "Pages:"
+msgstr ""
+
+#: image.php:78
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: image.php:80
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: image.php:82
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: image.php:84
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: includes/extras.php:74
+msgid "Page %s"
+msgstr ""
+
+#: includes/register-menu-areas.php:25
+msgid "Header right menu"
+msgstr ""
+
+#: includes/register-widget-areas.php:25
+msgid "Top bar left"
+msgstr ""
+
+#: includes/register-widget-areas.php:27
+msgid "Top bar left space for widgets"
+msgstr ""
+
+#: includes/register-widget-areas.php:37
+msgid "Top bar right"
+msgstr ""
+
+#: includes/register-widget-areas.php:39
+msgid "Top bar right space for widgets"
+msgstr ""
+
+#: includes/register-widget-areas.php:49
+msgid "Homepage 1/3"
+msgstr ""
+
+#: includes/register-widget-areas.php:51
+msgid "Homepage first space for widgets"
+msgstr ""
+
+#: includes/register-widget-areas.php:61
+msgid "Homepage 2/3"
+msgstr ""
+
+#: includes/register-widget-areas.php:63
+msgid "Homepage center space for widgets"
+msgstr ""
+
+#: includes/register-widget-areas.php:73
+msgid "Homepage 3/3"
+msgstr ""
+
+#: includes/register-widget-areas.php:75
+msgid "Homepage last space for widgets"
+msgstr ""
+
+#: includes/register-widget-areas.php:85
+msgid "Footer 1/3"
+msgstr ""
+
+#: includes/register-widget-areas.php:87
+msgid "Footer first space for widgets"
+msgstr ""
+
+#: includes/register-widget-areas.php:97
+msgid "Footer 2/3"
+msgstr ""
+
+#: includes/register-widget-areas.php:99
+msgid "Footer center space for widgets"
+msgstr ""
+
+#: includes/register-widget-areas.php:109
+msgid "Footer 3/3"
+msgstr ""
+
+#: includes/register-widget-areas.php:111
+msgid "Footer last space for widgets"
+msgstr ""
+
+#: includes/register-widget-areas.php:121
+msgid "Footer colophon"
+msgstr ""
+
+#: includes/register-widget-areas.php:123
+msgid "Footer colophon space for widgets"
+msgstr ""
+
+#: includes/register-widget-areas.php:133
+msgid "Sidebar"
+msgstr ""
+
+#: includes/template-tags.php:42
+msgid "Post navigation"
+msgstr ""
+
+#: includes/template-tags.php:47
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: includes/template-tags.php:48
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: includes/template-tags.php:53
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: includes/template-tags.php:57
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: includes/template-tags.php:81
+msgid "Pingback:"
+msgstr ""
+
+#: includes/template-tags.php:96
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: includes/template-tags.php:100
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/template-tags.php:103
+msgid ""
+"<span style=\"margin-left: 5px;\" class=\"glyphicon glyphicon-edit\"></span> "
+"Edit"
+msgstr ""
+
+#: includes/template-tags.php:108
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/template-tags.php:218
+msgid ", updated on "
+msgstr ""
+
+#: includes/template-tags.php:221
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: includes/template-tags.php:225
+msgid "View all posts by %s"
+msgstr ""
+
+#: includes/theme-customizer.php:45 includes/theme-customizer.php:58
+#: includes/theme-customizer.php:81
+msgid "Logo"
+msgstr ""
+
+#: includes/theme-customizer.php:47 includes/theme-customizer.php:70
+msgid ""
+"Upload a logo to replace the default site name and description in the header"
+msgstr ""
+
+#: includes/theme-customizer.php:68
+msgid "Logo (mobile)"
+msgstr ""
+
+#: includes/theme-customizer.php:93
+msgid "Site background"
+msgstr ""
+
+#: includes/theme-customizer.php:95
+msgid ""
+"Upload a background image to be shown in the homepage footer and in the "
+"header of other pages"
+msgstr ""
+
+#: includes/theme-customizer.php:106
+msgid "Background"
+msgstr ""
+
+#: includes/theme-customizer.php:119
+msgid "Footer colophon text"
+msgstr ""
+
+#: includes/theme-customizer.php:121
+msgid "This message will be shown in the footer colophon."
+msgstr ""
+
+#: includes/theme-customizer.php:132
+msgid "Message"
+msgstr ""
+
+#: includes/theme-customizer.php:145
+msgid "Aviso de cookies"
+msgstr ""
+
+#: includes/theme-customizer.php:146
+msgid "Configura el aviso de uso de cookies."
+msgstr ""
+
+#: includes/theme-customizer.php:154
+msgid "Texto del aviso de uso de cookies"
+msgstr ""
+
+#: includes/theme-customizer.php:162
+msgid "Texto del mensaje de aviso de uso de cookies"
+msgstr ""
+
+#: includes/theme-customizer.php:171
+msgid "http://"
+msgstr ""
+
+#: includes/theme-customizer.php:179
+msgid "URL de la política de cookies"
+msgstr ""
+
+#: search.php:27
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:18
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:18
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:35
+msgid "Meta"
+msgstr ""
+
+#: single.php:44
+msgid "Te pueden interesar"
+msgstr ""
+
+#: template-homepage.php:87
+msgid "Te recomendamos"
+msgstr ""
+
+#: template-homepage.php:101
+msgid "Novedades"
+msgstr ""
+
+#: template-homepage.php:120
+msgid "somos"
+msgstr ""
+
+#: template_parts/content-homepage.php:32 template_parts/content.php:34
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: template_parts/content-homepage.php:46
+#: template_parts/content-homepage.php:56 template_parts/content.php:48
+#: template_parts/content.php:58
+msgid ", "
+msgstr ""
+
+#: template_parts/content-homepage.php:50 template_parts/content.php:52
+msgid "Posted in %1$s"
+msgstr ""
+
+#: template_parts/content-homepage.php:60 template_parts/content.php:62
+msgid "Tagged %1$s"
+msgstr ""
+
+#: template_parts/content-homepage.php:66 template_parts/content.php:68
+msgid "Leave a comment"
+msgstr ""
+
+#: template_parts/content-homepage.php:66 template_parts/content.php:68
+msgid "1 Comment"
+msgstr ""
+
+#: template_parts/content-homepage.php:66 template_parts/content.php:68
+msgid "% Comments"
+msgstr ""
+
+#: template_parts/content-single.php:42
+msgid "El comercio"
+msgstr ""
+
+#: template_parts/content-single.php:47
+msgid "La oferta"
+msgstr ""
+
+#: template_parts/no-results.php:19
+msgid "Nothing Found"
+msgstr ""
+
+#: template_parts/no-results.php:25
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template_parts/no-results.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template_parts/no-results.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "DaleDepor"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.luissanzrodriguez.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Custom-made development based on _tk 1.1.9 for daleDEPOR"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Bannister Global"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.bannisterglobal.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr ""
