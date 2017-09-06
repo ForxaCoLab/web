@@ -2,4 +2,4 @@
 
 Espello do sitio web oficial do Co-Lab
 
-[](http://colab.coruna.gal)
+[Web do Co-Lab](http://colab.coruna.gal)
